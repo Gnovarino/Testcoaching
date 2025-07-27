@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "text": "Quando lavori in gruppo, assumi spontaneamente il ruolo di guida e facilitatore?",
+    "category": "leadership",
+    "weight": 1
+  },
+  {
+    "id": 2,
+    "text": "Sei in grado di prendere decisioni rapide anche in condizioni di incertezza?",
+    "category": "leadership",
+    "weight": 1
+  },
+  {
+    "id": 3,
+    "text": "Ti capita spesso di motivare e ispirare altre persone per raggiungere un obiettivo comune?",
+    "category": "leadership",
+    "weight": 1
+  },
+  {
+    "id": 4,
+    "text": "Sai adattare il tuo stile di leadership a persone con esperienze e personalità diverse?",
+    "category": "leadership",
+    "weight": 1
+  },
+  {
+    "id": 5,
+    "text": "Quando affronti conflitti, riesci a mantenere un approccio neutrale e risolutivo?",
+    "category": "intelligenza_emotiva",
+    "weight": 1
+  },
+  {
+    "id": 6,
+    "text": "Ti accorgi facilmente delle emozioni degli altri e sai adattare il tuo comportamento di conseguenza?",
+    "category": "intelligenza_emotiva",
+    "weight": 1
+  },
+  {
+    "id": 7,
+    "text": "Quando provi rabbia o frustrazione, sai gestirle senza reagire impulsivamente?",
+    "category": "intelligenza_emotiva",
+    "weight": 1
+  },
+  {
+    "id": 8,
+    "text": "Sai trasformare una critica ricevuta in un'opportunità di miglioramento?",
+    "category": "intelligenza_emotiva",
+    "weight": 1
+  },
+  {
+    "id": 9,
+    "text": "Di fronte a un fallimento, riesci a vedere opportunità future e mantenere la motivazione?",
+    "category": "ottimismo",
+    "weight": 1
+  },
+  {
+    "id": 10,
+    "text": "Ti concentri più sulle soluzioni che sui problemi quando affronti una sfida?",
+    "category": "ottimismo",
+    "weight": 1
+  },
+  {
+    "id": 11,
+    "text": "Credi che il tuo impegno possa influenzare positivamente i risultati, anche in situazioni difficili?",
+    "category": "ottimismo",
+    "weight": 1
+  },
+  {
+    "id": 12,
+    "text": "Riesci a mantenere un atteggiamento positivo anche in momenti di forte stress?",
+    "category": "ottimismo",
+    "weight": 1
+  },
+  {
+    "id": 13,
+    "text": "Sei capace di comunicare in modo chiaro e comprensibile, adattandoti all’interlocutore?",
+    "category": "soft_skills",
+    "weight": 1
+  },
+  {
+    "id": 14,
+    "text": "Sai collaborare con persone con background e opinioni differenti dalle tue?",
+    "category": "soft_skills",
+    "weight": 1
+  },
+  {
+    "id": 15,
+    "text": "Sai gestire bene il tempo e le priorità quando lavori su più attività contemporaneamente?",
+    "category": "soft_skills",
+    "weight": 1
+  },
+  {
+    "id": 16,
+    "text": "Sai ascoltare attivamente e porre domande per capire meglio il punto di vista altrui?",
+    "category": "soft_skills",
+    "weight": 1
+  },
+  {
+    "id": 17,
+    "text": "Sai utilizzare strumenti digitali (software di produttività o di analisi) con buona autonomia?",
+    "category": "hard_skills",
+    "weight": 1
+  },
+  {
+    "id": 18,
+    "text": "Hai competenze tecniche specifiche (es. programmazione, disegno tecnico, contabilità) applicabili al tuo lavoro?",
+    "category": "hard_skills",
+    "weight": 1
+  },
+  {
+    "id": 19,
+    "text": "Sai risolvere problemi tecnici o operativi senza bisogno di supervisione costante?",
+    "category": "hard_skills",
+    "weight": 1
+  },
+  {
+    "id": 20,
+    "text": "Ti tieni aggiornato sulle novità del tuo settore e migliori continuamente le tue competenze?",
+    "category": "hard_skills",
+    "weight": 1
+  }
+]
