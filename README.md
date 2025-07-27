@@ -8,17 +8,20 @@ L’obiettivo è aiutare a definire un profilo personale completo, utile sia per
 ```
 Testcoaching/
 │
-├── app/                  # Frontend o interfaccia utente (es. React o simile)
-├── services/             # Logica applicativa (API e moduli di calcolo)
-│   ├── questions.py      # Gestione delle domande del questionario
-│   ├── analysis.py       # Analisi delle risposte e generazione profilo
+├── app/
+├── services/
+│   ├── questions.py
+│   ├── analysis.py
 │
-├── data/                 # Archivio delle domande e altri dati di base
-│   └── questions.json    # Domande del questionario (fornito in questo progetto)
+├── data/
+│   └── questions.json
 │
-├── docs/                 # Documentazione del progetto
+├── docs/
+│   (qui saranno salvati il report e il grafico)
 │
-└── README.md             # Documento di presentazione e istruzioni
+├── run_test.py
+└── README.md
+
 
 ```
 
