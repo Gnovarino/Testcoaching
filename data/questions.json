@@ -118,5 +118,30 @@
     "text": "Ti tieni aggiornato sulle novità del tuo settore e migliori continuamente le tue competenze?",
     "category": "hard_skills",
     "weight": 1
+  },
+  {
+    "id": 21,
+    "text": "Quando devi affrontare un problema complesso, analizzi sistematicamente tutte le possibili soluzioni?",
+    "category": "problem_solving",
+    "weight": 1
+  },
+  {
+    "id": 22,
+    "text": "Se una strategia non funziona, sei capace di cambiarla velocemente senza scoraggiarti?",
+    "category": "problem_solving",
+    "weight": 1
+  },
+  {
+    "id": 23,
+    "text": "Ti piace scomporre i problemi in parti più piccole per risolverli più facilmente?",
+    "category": "problem_solving",
+    "weight": 1
+  },
+  {
+    "id": 24,
+    "text": "Quando incontri un ostacolo inatteso, riesci a trovare alternative creative per superarlo?",
+    "category": "problem_solving",
+    "weight": 1
   }
 ]
+

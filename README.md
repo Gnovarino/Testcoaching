@@ -26,3 +26,5 @@ Testcoaching/
 ```
 
 > **Nota:** Aggiorna l’indice se aggiungi o rimuovi file importanti.
+
+Il file `data/questions.json` contiene 24 domande suddivise in sei categorie: leadership, intelligenza_emotiva, ottimismo, soft_skills, hard_skills e problem_solving.
