@@ -1,147 +1,113 @@
 [
-  {
-    "id": 1,
-    "text": "Quando lavori in gruppo, assumi spontaneamente il ruolo di guida e facilitatore?",
-    "category": "leadership",
-    "weight": 1
-  },
-  {
-    "id": 2,
-    "text": "Sei in grado di prendere decisioni rapide anche in condizioni di incertezza?",
-    "category": "leadership",
-    "weight": 1
-  },
-  {
-    "id": 3,
-    "text": "Ti capita spesso di motivare e ispirare altre persone per raggiungere un obiettivo comune?",
-    "category": "leadership",
-    "weight": 1
-  },
-  {
-    "id": 4,
-    "text": "Sai adattare il tuo stile di leadership a persone con esperienze e personalità diverse?",
-    "category": "leadership",
-    "weight": 1
-  },
-  {
-    "id": 5,
-    "text": "Quando affronti conflitti, riesci a mantenere un approccio neutrale e risolutivo?",
-    "category": "intelligenza_emotiva",
-    "weight": 1
-  },
-  {
-    "id": 6,
-    "text": "Ti accorgi facilmente delle emozioni degli altri e sai adattare il tuo comportamento di conseguenza?",
-    "category": "intelligenza_emotiva",
-    "weight": 1
-  },
-  {
-    "id": 7,
-    "text": "Quando provi rabbia o frustrazione, sai gestirle senza reagire impulsivamente?",
-    "category": "intelligenza_emotiva",
-    "weight": 1
-  },
-  {
-    "id": 8,
-    "text": "Sai trasformare una critica ricevuta in un'opportunità di miglioramento?",
-    "category": "intelligenza_emotiva",
-    "weight": 1
-  },
-  {
-    "id": 9,
-    "text": "Di fronte a un fallimento, riesci a vedere opportunità future e mantenere la motivazione?",
-    "category": "ottimismo",
-    "weight": 1
-  },
-  {
-    "id": 10,
-    "text": "Ti concentri più sulle soluzioni che sui problemi quando affronti una sfida?",
-    "category": "ottimismo",
-    "weight": 1
-  },
-  {
-    "id": 11,
-    "text": "Credi che il tuo impegno possa influenzare positivamente i risultati, anche in situazioni difficili?",
-    "category": "ottimismo",
-    "weight": 1
-  },
-  {
-    "id": 12,
-    "text": "Riesci a mantenere un atteggiamento positivo anche in momenti di forte stress?",
-    "category": "ottimismo",
-    "weight": 1
-  },
-  {
-    "id": 13,
-    "text": "Sei capace di comunicare in modo chiaro e comprensibile, adattandoti all’interlocutore?",
-    "category": "soft_skills",
-    "weight": 1
-  },
-  {
-    "id": 14,
-    "text": "Sai collaborare con persone con background e opinioni differenti dalle tue?",
-    "category": "soft_skills",
-    "weight": 1
-  },
-  {
-    "id": 15,
-    "text": "Sai gestire bene il tempo e le priorità quando lavori su più attività contemporaneamente?",
-    "category": "soft_skills",
-    "weight": 1
-  },
-  {
-    "id": 16,
-    "text": "Sai ascoltare attivamente e porre domande per capire meglio il punto di vista altrui?",
-    "category": "soft_skills",
-    "weight": 1
-  },
-  {
-    "id": 17,
-    "text": "Sai utilizzare strumenti digitali (software di produttività o di analisi) con buona autonomia?",
-    "category": "hard_skills",
-    "weight": 1
-  },
-  {
-    "id": 18,
-    "text": "Hai competenze tecniche specifiche (es. programmazione, disegno tecnico, contabilità) applicabili al tuo lavoro?",
-    "category": "hard_skills",
-    "weight": 1
-  },
-  {
-    "id": 19,
-    "text": "Sai risolvere problemi tecnici o operativi senza bisogno di supervisione costante?",
-    "category": "hard_skills",
-    "weight": 1
-  },
-  {
-    "id": 20,
-    "text": "Ti tieni aggiornato sulle novità del tuo settore e migliori continuamente le tue competenze?",
-    "category": "hard_skills",
-    "weight": 1
-  },
-  {
-    "id": 21,
-    "text": "Quando devi affrontare un problema complesso, analizzi sistematicamente tutte le possibili soluzioni?",
-    "category": "problem_solving",
-    "weight": 1
-  },
-  {
-    "id": 22,
-    "text": "Se una strategia non funziona, sei capace di cambiarla velocemente senza scoraggiarti?",
-    "category": "problem_solving",
-    "weight": 1
-  },
-  {
-    "id": 23,
-    "text": "Ti piace scomporre i problemi in parti più piccole per risolverli più facilmente?",
-    "category": "problem_solving",
-    "weight": 1
-  },
-  {
-    "id": 24,
-    "text": "Quando incontri un ostacolo inatteso, riesci a trovare alternative creative per superarlo?",
-    "category": "problem_solving",
-    "weight": 1
-  }
-]
+  { "id": 1,  "text": "Quando lavori in gruppo, assumi spontaneamente il ruolo di guida e facilitatore?",                                "category": "leadership",           "weight": 1 },
+  { "id": 2,  "text": "Sei in grado di prendere decisioni rapide anche in condizioni di incertezza?",                                   "category": "leadership",           "weight": 1 },
+  { "id": 3,  "text": "Ti capita spesso di motivare e ispirare altre persone per raggiungere un obiettivo comune?",                     "category": "leadership",           "weight": 1 },
+  { "id": 4,  "text": "Sai adattare il tuo stile di leadership a persone con esperienze e personalità diverse?",                       "category": "leadership",           "weight": 1 },
 
+  { "id": 5,  "text": "Quando affronti conflitti, riesci a mantenere un approccio neutrale e risolutivo?",                             "category": "intelligenza_emotiva", "weight": 1 },
+  { "id": 6,  "text": "Ti accorgi facilmente delle emozioni degli altri e sai adattare il tuo comportamento di conseguenza?",           "category": "intelligenza_emotiva", "weight": 1 },
+  { "id": 7,  "text": "Quando provi rabbia o frustrazione, sai gestirle senza reagire impulsivamente?",                                 "category": "intelligenza_emotiva", "weight": 1 },
+  { "id": 8,  "text": "Sai trasformare una critica ricevuta in un'opportunità di miglioramento?",                                       "category": "intelligenza_emotiva", "weight": 1 },
+
+  { "id": 9,  "text": "Di fronte a un fallimento, riesci a vedere opportunità future e mantenere la motivazione?",                      "category": "ottimismo",            "weight": 1 },
+  { "id": 10, "text": "Ti concentri più sulle soluzioni che sui problemi quando affronti una sfida?",                                   "category": "ottimismo",            "weight": 1 },
+  { "id": 11, "text": "Credi che il tuo impegno possa influenzare positivamente i risultati, anche in situazioni difficili?",            "category": "ottimismo",            "weight": 1 },
+  { "id": 12, "text": "Riesci a mantenere un atteggiamento positivo anche in momenti di forte stress?",                                 "category": "ottimismo",            "weight": 1 },
+
+  { "id": 13, "text": "Sei capace di comunicare in modo chiaro e comprensibile, adattandoti all’interlocutore?",                        "category": "soft_skills",          "weight": 1 },
+  { "id": 14, "text": "Sai collaborare con persone con background e opinioni differenti dalle tue?",                                     "category": "soft_skills",          "weight": 1 },
+  { "id": 15, "text": "Sai gestire bene il tempo e le priorità quando lavori su più attività contemporaneamente?",                      "category": "soft_skills",          "weight": 1 },
+  { "id": 16, "text": "Sai ascoltare attivamente e porre domande per capire meglio il punto di vista altrui?",                          "category": "soft_skills",          "weight": 1 },
+
+  { "id": 17, "text": "Sai utilizzare strumenti digitali (software di produttività o di analisi) con buona autonomia?",                 "category": "hard_skills",          "weight": 1 },
+  { "id": 18, "text": "Hai competenze tecniche specifiche (es. programmazione, disegno tecnico, contabilità) applicabili al tuo lavoro?", "category": "hard_skills",          "weight": 1 },
+  { "id": 19, "text": "Sai risolvere problemi tecnici o operativi senza bisogno di supervisione costante?",                              "category": "hard_skills",          "weight": 1 },
+  { "id": 20, "text": "Ti tieni aggiornato sulle novità del tuo settore e migliori continuamente le tue competenze?",                    "category": "hard_skills",          "weight": 1 },
+
+  { "id": 21, "text": "Quando devi affrontare un problema complesso, analizzi sistematicamente tutte le possibili soluzioni?",           "category": "problem_solving",      "weight": 1 },
+  { "id": 22, "text": "Se una strategia non funziona, sei capace di cambiarla velocemente senza scoraggiarti?",                          "category": "problem_solving",      "weight": 1 },
+  { "id": 23, "text": "Ti piace scomporre i problemi in parti più piccole per risolverli più facilmente?",                               "category": "problem_solving",      "weight": 1 },
+  { "id": 24, "text": "Quando incontri un ostacolo inatteso, riesci a trovare alternative creative per superarlo?",                      "category": "problem_solving",      "weight": 1 },
+
+  { "id": 25, "text": "Sai gestire deleghe in modo efficace, assegnando compiti e monitorando i risultati senza micro-gestire?",         "category": "leadership",           "weight": 1 },
+  { "id": 26, "text": "Sei in grado di fornire feedback costruttivo che stimoli la crescita dei membri del tuo team?",                   "category": "leadership",           "weight": 1 },
+  { "id": 27, "text": "Ti assicuri di condividere la visione e i valori del progetto con il tuo team in modo chiaro?",                   "category": "leadership",           "weight": 1 },
+  { "id": 28, "text": "Sai riconoscere e celebrare i successi del team, rafforzando il morale?",                                         "category": "leadership",           "weight": 1 },
+  { "id": 29, "text": "Sei capace di mediare fra obiettivi aziendali e bisogni individuali del team?",                                   "category": "leadership",           "weight": 1 },
+  { "id": 30, "text": "Riesci a mantenere la calma e guidare il gruppo durante situazioni di crisi?",                                    "category": "leadership",           "weight": 1 },
+  { "id": 31, "text": "Sai promuovere un ambiente di lavoro inclusivo in cui tutti si sentano valorizzati?",                             "category": "leadership",           "weight": 1 },
+  { "id": 32, "text": "Coinvolgi i membri del team nei processi decisionali per aumentare l’engagement?",                                "category": "leadership",           "weight": 1 },
+  { "id": 33, "text": "Sei in grado di definire priorità chiare e comunicare le aspettative in modo trasparente?",                       "category": "leadership",           "weight": 1 },
+  { "id": 34, "text": "Sai identificare e sviluppare i talenti all’interno del tuo team?",                                               "category": "leadership",           "weight": 1 },
+  { "id": 35, "text": "Riesci ad allineare le attività quotidiane con la strategia a lungo termine dell’organizzazione?",                "category": "leadership",           "weight": 1 },
+  { "id": 36, "text": "Sei disposto a prendere responsabilità per gli errori del team e a proteggerlo dalle pressioni esterne?",         "category": "leadership",           "weight": 1 },
+
+  { "id": 37, "text": "Riconosci i segnali non verbali nelle conversazioni e li usi per capire meglio gli altri?",                       "category": "intelligenza_emotiva", "weight": 1 },
+  { "id": 38, "text": "Sai regolare il tuo tono di voce in base all’emozione che vuoi trasmettere?",                                     "category": "intelligenza_emotiva", "weight": 1 },
+  { "id": 39, "text": "Quando qualcuno è in difficoltà, offri supporto empatico e pratico senza giudicare?",                             "category": "intelligenza_emotiva", "weight": 1 },
+  { "id": 40, "text": "Sei capace di identificare le tue emozioni prima che influenzino negativamente le tue decisioni?",                "category": "intelligenza_emotiva", "weight": 1 },
+  { "id": 41, "text": "Pratichi tecniche di gestione dello stress, come respirazione o mindfulness, per mantenere la lucidità?",         "category": "intelligenza_emotiva", "weight": 1 },
+  { "id": 42, "text": "Quando ricevi un feedback negativo, reagisci con apertura invece che con difensività?",                           "category": "intelligenza_emotiva", "weight": 1 },
+  { "id": 43, "text": "Riesci a comprendere le cause profonde dei tuoi sentimenti e a comunicarle chiaramente agli altri?",              "category": "intelligenza_emotiva", "weight": 1 },
+  { "id": 44, "text": "Sei in grado di adattare il tuo atteggiamento emotivo per motivare il team?",                                     "category": "intelligenza_emotiva", "weight": 1 },
+  { "id": 45, "text": "Sai gestire le aspettative emotive delle diverse parti interessate in un progetto?",                             "category": "intelligenza_emotiva", "weight": 1 },
+  { "id": 46, "text": "Ti capita di chiedere scusa sinceramente quando le tue azioni feriscono qualcuno?",                               "category": "intelligenza_emotiva", "weight": 1 },
+  { "id": 47, "text": "Sai trasformare la delusione in energia costruttiva per il futuro?",                                              "category": "intelligenza_emotiva", "weight": 1 },
+  { "id": 48, "text": "Prendi in considerazione il benessere emotivo del team quando pianifichi le attività?",                          "category": "intelligenza_emotiva", "weight": 1 },
+
+  { "id": 49, "text": "Mantieni la fiducia nel risultato anche quando il progetto subisce ritardi significativi?",                      "category": "ottimismo",            "weight": 1 },
+  { "id": 50, "text": "Sai vedere nelle critiche un’opportunità per innovare?",                                                          "category": "ottimismo",            "weight": 1 },
+  { "id": 51, "text": "Ti poni obiettivi ambiziosi credendo nella possibilità di raggiungerli?",                                         "category": "ottimismo",            "weight": 1 },
+  { "id": 52, "text": "Quando incontri resistenze, rafforzi la tua motivazione invece di scoraggiarti?",                                 "category": "ottimismo",            "weight": 1 },
+  { "id": 53, "text": "Hai l’abitudine di celebrare i piccoli progressi per alimentare la tua determinazione?",                          "category": "ottimismo",            "weight": 1 },
+  { "id": 54, "text": "Sei capace di immaginare scenari positivi e di comunicarli al team?",                                             "category": "ottimismo",            "weight": 1 },
+  { "id": 55, "text": "Quando un collega è pessimista, riesci a contagiarlo con la tua visione positiva?",                               "category": "ottimismo",            "weight": 1 },
+  { "id": 56, "text": "Valuti i rischi senza farti paralizzare dall’ansia di fallire?",                                                  "category": "ottimismo",            "weight": 1 },
+  { "id": 57, "text": "Credi che gli imprevisti possano portare a opportunità inattese?",                                                "category": "ottimismo",            "weight": 1 },
+  { "id": 58, "text": "Riesci a mantenere la fiducia nelle tue capacità anche dopo un errore?",                                          "category": "ottimismo",            "weight": 1 },
+  { "id": 59, "text": "Ti capita di parlare di successi futuri al presente per rafforzare la convinzione personale?",                   "category": "ottimismo",            "weight": 1 },
+  { "id": 60, "text": "Sai trarre ispirazione da esempi di resilienza altrui per alimentare il tuo entusiasmo?",                         "category": "ottimismo",            "weight": 1 },
+
+  { "id": 61, "text": "Sai adattare la tua comunicazione a differenti canali (email, riunione, chat) in modo efficace?",                 "category": "soft_skills",          "weight": 1 },
+  { "id": 62, "text": "Quando gestisci un conflitto, cerchi un terreno comune prima di proporre soluzioni?",                             "category": "soft_skills",          "weight": 1 },
+  { "id": 63, "text": "Riesci a dare priorità agli obiettivi condivisi rispetto a quelli personali?",                                    "category": "soft_skills",          "weight": 1 },
+  { "id": 64, "text": "Sei capace di facilitare brainstorming produttivi mantenendo ordine e creatività?",                              "category": "soft_skills",          "weight": 1 },
+  { "id": 65, "text": "Ti assicuri che tutti i membri del team abbiano voce durante le riunioni?",                                       "category": "soft_skills",          "weight": 1 },
+  { "id": 66, "text": "Sai negoziare con successo trovando soluzioni win-win?",                                                          "category": "soft_skills",          "weight": 1 },
+  { "id": 67, "text": "Utilizzi tecniche di active listening, come il parafrasare, per confermare la comprensione?",                    "category": "soft_skills",          "weight": 1 },
+  { "id": 68, "text": "Riesci a mantenere la professionalità anche in situazioni di forte pressione?",                                   "category": "soft_skills",          "weight": 1 },
+  { "id": 69, "text": "Ti prepari con cura prima di parlare in pubblico per gestire l’ansia e comunicare con chiarezza?",               "category": "soft_skills",          "weight": 1 },
+  { "id": 70, "text": "Sai costruire relazioni di fiducia a lungo termine con stakeholder interni ed esterni?",                         "category": "soft_skills",          "weight": 1 },
+  { "id": 71, "text": "Sei disposto a chiedere aiuto quando necessario, riconoscendo i tuoi limiti?",                                    "category": "soft_skills",          "weight": 1 },
+  { "id": 72, "text": "Riesci a dare riconoscimenti sinceri ai colleghi per rafforzare la collaborazione?",                              "category": "soft_skills",          "weight": 1 },
+
+  { "id": 73, "text": "Sai impostare e utilizzare fogli di calcolo complessi per l’analisi dei dati?",                                  "category": "hard_skills",          "weight": 1 },
+  { "id": 74, "text": "Conosci i principi base della programmazione e riesci a scrivere script utili al tuo lavoro?",                    "category": "hard_skills",          "weight": 1 },
+  { "id": 75, "text": "Sei capace di configurare un ambiente di sviluppo o di produzione senza assistenza?",                            "category": "hard_skills",          "weight": 1 },
+  { "id": 76, "text": "Riesci a interpretare correttamente report finanziari e trarne decisioni operative?",                             "category": "hard_skills",          "weight": 1 },
+  { "id": 77, "text": "Conosci metodologie di project management come PRINCE2 o Agile e le applichi con coerenza?",                      "category": "hard_skills",          "weight": 1 },
+  { "id": 78, "text": "Sai redigere documentazione tecnica chiara e completa?",                                                          "category": "hard_skills",          "weight": 1 },
+  { "id": 79, "text": "Utilizzi strumenti di version control (es. Git) per collaborare in modo efficace allo sviluppo?",                "category": "hard_skills",          "weight": 1 },
+  { "id": 80, "text": "Hai familiarità con tecniche di data visualization per presentare informazioni complesse?",                      "category": "hard_skills",          "weight": 1 },
+  { "id": 81, "text": "Sei in grado di configurare dashboard di monitoraggio KPI rilevanti per il progetto?",                           "category": "hard_skills",          "weight": 1 },
+  { "id": 82, "text": "Conosci i principi di sicurezza informatica e li applichi nel tuo lavoro quotidiano?",                            "category": "hard_skills",          "weight": 1 },
+  { "id": 83, "text": "Sei capace di eseguire analisi di fattibilità tecnica prima di avviare un progetto?",                             "category": "hard_skills",          "weight": 1 },
+  { "id": 84, "text": "Riesci a implementare automatizzazioni (es. script, macro) per ridurre attività ripetitive?",                    "category": "hard_skills",          "weight": 1 },
+  { "id": 85, "text": "Sai impostare test di qualità o unit test per garantire l’affidabilità del prodotto?",                           "category": "hard_skills",          "weight": 1 },
+  { "id": 86, "text": "Ti tieni aggiornato frequentando corsi o certificazioni per accrescere le tue competenze tecniche?",              "category": "hard_skills",          "weight": 1 },
+
+  { "id": 87, "text": "Definisci criteri di successo chiari prima di iniziare l’analisi di un problema?",                               "category": "problem_solving",      "weight": 1 },
+  { "id": 88, "text": "Usi tecniche come il diagramma di Ishikawa per identificare le cause radice?",                                   "category": "problem_solving",      "weight": 1 },
+  { "id": 89, "text": "Sei capace di valutare rischi e benefici di ciascuna opzione prima di decidere?",                                "category": "problem_solving",      "weight": 1 },
+  { "id": 90, "text": "Raccogli feedback dagli stakeholder per validare le tue ipotesi di soluzione?",                                  "category": "problem_solving",      "weight": 1 },
+  { "id": 91, "text": "Utilizzi dati oggettivi per supportare le decisioni anziché affidarti solo all’intuizione?",                      "category": "problem_solving",      "weight": 1 },
+  { "id": 92, "text": "Se la soluzione implementata non funziona, monitori indicatori chiave per correggere rapidamente la rotta?",      "category": "problem_solving",      "weight": 1 },
+  { "id": 93, "text": "Sai mantenere la flessibilità mentale per cambiare prospettiva su un problema complesso?",                        "category": "problem_solving",      "weight": 1 },
+  { "id": 94, "text": "Quando affronti un problema, definisci tempistiche e responsabilità precise per l’esecuzione della soluzione?",   "category": "problem_solving",      "weight": 1 },
+  { "id": 95, "text": "Applichi metodologie di miglioramento continuo (es. PDCA) per perfezionare i processi?",                          "category": "problem_solving",      "weight": 1 },
+  { "id": 96, "text": "Sai facilitare sessioni di root cause analysis con il team?",                                                    "category": "problem_solving",      "weight": 1 },
+  { "id": 97, "text": "Valuti l’impatto a lungo termine delle tue soluzioni, non solo il beneficio immediato?",                          "category": "problem_solving",      "weight": 1 },
+  { "id": 98, "text": "Ti capita di sperimentare prototipi rapidi (MVP) per testare una soluzione prima di scalarla?",                   "category": "problem_solving",      "weight": 1 },
+  { "id": 99, "text": "Se un problema rientra nell’esperienza altrui, sai quando delegare o chiedere supporto esperto?",                 "category": "problem_solving",      "weight": 1 },
+  { "id": 100,"text": "Sai documentare in modo strutturato il processo decisionale per apprendimenti futuri?",                           "category": "problem_solving",      "weight": 1 }
+]
