@@ -1,40 +1,25 @@
 # Testcoaching
 
-Benvenuto nel repository **Testcoaching**!
+Questo progetto è pensato per creare una piattaforma di coaching e sviluppo personale, capace di valutare le competenze trasversali e tecniche di un individuo attraverso un questionario strutturato.
+L’obiettivo è aiutare a definire un profilo personale completo, utile sia per la crescita individuale che per contesti aziendali (recruitment, valutazione interna, piani di formazione).
 
 ## Indice della Struttura del Progetto
 
 ```
-profilo-utente/
-├── README.md            # Descrizione del progetto, uso e contributi
-├── .gitignore           # File/directory da ignorare da Git
-├── app/
-│   ├── main.py          # Entry point dell'applicazione FastAPI
-│   ├── models.py        # Definizione delle classi (utente, risposte, profilo)
-│   ├── schemas.py       # Schemi pydantic per validazione input/output
-│   ├── api/
-│   │   ├── endpoints.py # API REST (start questionnaire, answer, profile)
-│   └── services/
-│       ├── questions.py # Logica per selezione domande adattive
-│       ├── analysis.py  # Logica di analisi e punteggio risposte
-│       └── profiling.py # Generazione del report finale
-├── data/
-│   ├── questions.json   # Archivio di domande con metadati (categoria, peso)
-│   └── examples/
-│       └── responses.json # Esempi di risposte per test
-├── docs/
-│   └── design.md        # Documentazione tecnica e di processo
-├── tests/
-│   ├── test_api.py      # Test dei vari endpoint
-│   └── test_analysis.py # Test della logica di analisi/profilazione
-├── scripts/
-│   └── populate_db.py   # Script per importare domande nel DB
-└── requirements.txt     # Dipendenze Python
+Testcoaching/
+│
+├── app/                  # Frontend o interfaccia utente (es. React o simile)
+├── services/             # Logica applicativa (API e moduli di calcolo)
+│   ├── questions.py      # Gestione delle domande del questionario
+│   ├── analysis.py       # Analisi delle risposte e generazione profilo
+│
+├── data/                 # Archivio delle domande e altri dati di base
+│   └── questions.json    # Domande del questionario (fornito in questo progetto)
+│
+├── docs/                 # Documentazione del progetto
+│
+└── README.md             # Documento di presentazione e istruzioni
+
 ```
 
 > **Nota:** Aggiorna l’indice se aggiungi o rimuovi file importanti.
-
-## Altre informazioni
-
-- [Documentazione tecnica](docs/design.md)
-- Per domande o suggerimenti, apri una issue!
