@@ -4,7 +4,7 @@ from services.analysis import generate_radar_chart, save_summary
 
 def ask_questions(questions):
     """
-    Mostra le 24 domande e raccoglie le risposte dell'utente (scala 1-5).
+    Mostra le 100 domande e raccoglie le risposte dell'utente (scala 1-5).
     """
     answers = {}
     print("Rispondi alle seguenti domande (1 = per niente d'accordo, 5 = totalmente d'accordo):\n")
